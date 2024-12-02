@@ -14,3 +14,8 @@
     transform: rotateY(45deg) skew(14deg) rotate3d(1.1, 1, 0.9, 1080deg);
   }
 }
+
+
+.graph {
+  mix-blend-mode: color-dodge;
+}

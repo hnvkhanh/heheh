@@ -8,7 +8,7 @@ const BottomPink = () => {
       viewBox="0 0 49 94"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      classNames={css.bottomPink}
+      className={css.bottomPink}
     >
       <path
         d="M5.47334 70.2566C19.1424 107.847 53.6967 96.0706 48.3776 66.4582C45.8474 52.372 24.7603 26.6851 2.28088 0.270264C0.587159 25.9426 -1.28414 51.6731 5.47334 70.2566Z"
